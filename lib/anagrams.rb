@@ -20,6 +20,5 @@ class String
     else
       "There are no matched anagrams"
     end
-    # binding.pry
   end
 end
